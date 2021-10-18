@@ -58,4 +58,4 @@
 
 [website]: https://emanuelzhupa.netlify.app/
 
-[linkedin]: https://linkedin.com/in/ezhupa99
+[linkedin]: https://linkedin.com/in/ezhupa99/
