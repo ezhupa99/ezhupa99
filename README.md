@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img  alt="emanuelzhupa.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img  alt="ezhupa99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img  alt="emanuelzhupa.netlify.app/" width="22px" src="https://e7.pngegg.com/pngimages/662/211/png-clipart-computer-icons-symbol-world-wide-web-miscellaneous-text.png" />][website]
+[<img  alt="ezhupa99 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
 
