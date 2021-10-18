@@ -29,7 +29,8 @@
 
 ---
 
-[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99)](https://github.com/anuraghazra/github-readme-stats)
+![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99&show_icons=true&theme=onedark)
+
 
 
 [website]: https://emanuelzhupa.netlify.app/
