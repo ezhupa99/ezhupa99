@@ -4,6 +4,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play ping-pong 🏓 and soccer ⚽
 
+<br />
+
 ### Connect with me:
 
 [<img  alt="emanuelzhupa.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -27,7 +29,7 @@
 <img  alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" />
 </div>
 
----
+<br />
 
 ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99&show_icons=true&theme=onedark)
 
