@@ -4,14 +4,10 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play ping-pong 🏓 and soccer ⚽
 
-<br />
-
 ### Connect with me:
 
 [<img  alt="emanuelzhupa.netlify.app/" width="22px" src="./assets/web.png" />][website]
 [<img  alt="ezhupa99 | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
