@@ -26,7 +26,10 @@
 <img  alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
 <img  alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" />
 </div>
+
 ---
+
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://emanuelzhupa.netlify.app/
