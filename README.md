@@ -1,4 +1,4 @@
-## I'm a Full Stack Developer!!
+## I'm a Full Stack Developer!! 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -13,6 +13,7 @@
 
 ### Languages and Tools:
 
+<div style="display: flex">
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.svg.png" />
 <img  alt="Visual Studio Code" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
@@ -24,7 +25,7 @@
 <img  alt=".Net Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />
 <img  alt="C#" width="26px" src="https://iconape.com/wp-content/png_logo_vector/c.png" />
 <img  alt="C#" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" />
-
+</div>
 ---
 
 
