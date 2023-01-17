@@ -50,6 +50,7 @@
 <br />
 
 ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99&show_icons=true&theme=onedark)
+[![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99)](https://github.com/ezhupa99/github-readme-stats)
 
 
 [website]: https://emanuelzhupa.netlify.app/
