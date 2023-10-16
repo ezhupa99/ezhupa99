@@ -1,7 +1,7 @@
 ## I'm a Full Stack Developer!! 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play ping-pong 🏓 and soccer ⚽
 
 ### Connect with me:
