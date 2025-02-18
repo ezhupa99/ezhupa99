@@ -1,7 +1,7 @@
 ## I'm a Full Stack Developer!! 👋
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play ping-pong 🏓 and soccer ⚽
 
 ### Connect with me:
@@ -52,6 +52,6 @@
 [![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezhupa99)](https://github.com/ezhupa99/github-readme-stats)
 
 
-[website]: https://emanuelzhupa.netlify.app/
+[website]: (https://portfolio.ezzh.org/home)
 
 [linkedin]: https://linkedin.com/in/ezhupa99/
