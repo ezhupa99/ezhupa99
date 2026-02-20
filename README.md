@@ -1,7 +1,6 @@
-## I'm a Full Stack Developer!! 👋
+## Learning and contributing!! 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play ping-pong 🏓 and soccer ⚽
 
 ### Connect with me:
@@ -16,7 +15,7 @@
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </a>
 <a href="https://www.jetbrains.com/webstorm/">
-<img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.svg.png" />
+<img alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.png" />
 </a>
 <a href="https://www.jetbrains.com/rider/">
 <img  alt="Visual Studio Code" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
